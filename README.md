@@ -3,7 +3,7 @@
 
 # How to use
 ## 1. Clone this repository  
- `git clone https://github.com/aidanbxyz/yolo-spammer`  
+ `git clone https://github.com/aidanbxyz/yolo-spammer.git`  
 ## 2. Install the required package  
  ```
 npm install request
