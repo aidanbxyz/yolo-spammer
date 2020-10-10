@@ -1,6 +1,7 @@
 # yolo-spammer
  Spams anyone's yolo with just their yoloID (yID)  
- -- NO LONGER WORKING AS OF NOW --
+ -- NO LONGER WORKING AS OF NOW --  
+ -- YOLO now uses a system that uses Google's recaptcha v2, it's response token is used as validation. --
 
 # How to use
 ## 1. Clone this repository  
