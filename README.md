@@ -1,5 +1,6 @@
 # yolo-spammer
  Spams anyone's yolo with just their yoloID (yID)
+ -- NO LONGER WORKING AS OF NOW --
 
 # How to use
 ## 1. Clone this repository  
